@@ -1,11 +1,11 @@
 import React from 'react';
 
 const People = () => {
-  return ( 
+  return (
     <div>
       <h2>People</h2>
     </div>
-   );
-}
- 
+  );
+};
+
 export default People;
